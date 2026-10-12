@@ -1,0 +1,1 @@
+{"name": "Bantam Team Hub", "short_name": "Bantam Hub", "start_url": "./", "display": "standalone", "background_color": "#f2f4f8", "theme_color": "#122d53", "icons": [{"src": "./apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}]}
